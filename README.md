@@ -150,7 +150,7 @@ Mobile deployment using TensorFlow Lite
 ## Author
 
 Atiye Ziaei
-- 📎 LinkedIn: your_profile
-- 📎 GitHub: your_profile
+- 📎 LinkedIn: (https://www.linkedin.com/in/atiyeziaei/)
+- 📎 GitHub:= (https://github.com/atiyeziaei/)
 
 Feel free to ⭐ the repository if you found it helpful
